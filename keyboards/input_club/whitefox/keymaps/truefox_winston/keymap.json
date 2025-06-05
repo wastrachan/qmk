@@ -191,6 +191,7 @@
             "KC_NO",
             "KC_NO",
             "KC_NO",
+            "KC_HOME",
             "KC_NO",
             "KC_NO",
             "KC_NO",
@@ -206,8 +207,7 @@
             "KC_NO",
             "KC_NO",
             "KC_NO",
-            "KC_NO",
-            "KC_NO",
+            "KC_SLEP",
             "KC_NO",
             "KC_NO",
             "KC_NO",
@@ -216,5 +216,6 @@
             "KC_NO",
             "KC_NO"
         ]
-    ]
+    ],
+    "author": "Winston Astrachan"
 }
